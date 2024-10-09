@@ -57,8 +57,9 @@ nav a:hover {
     border: var(--secondary-color) solid 2px;
 }
 
-span parei aquiiiiii minuto 2;58
-
+span {
+    font-weight: bold;
+    color: var(--secondary-color) 
 }
 
 footer {
